@@ -5,8 +5,13 @@
 - **carros**
 - **motores**
 - **drift**
-- **arrancadão** 
+- **arrancadão dos guri** 
 
 ### social 🎸
 
-[Instagram](https://www.instagram.com/gb2jz/)
+[instagram](https://www.instagram.com/gb2jz/)
+
+
+### GTR
+
+![](https://media1.tenor.com/m/wZEkIgZfbW8AAAAC/gtr-car.gif)
