@@ -15,3 +15,9 @@
 ### GTR
 
 ![](https://media1.tenor.com/m/wZEkIgZfbW8AAAAC/gtr-car.gif)
+
+
+### Projects 🐍
+
+[Desenhar](https://gabrielpaiva21.github.io/gbprojetos/)
+
