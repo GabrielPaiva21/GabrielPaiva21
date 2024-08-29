@@ -21,4 +21,3 @@
 
 [Desenhar](https://gabrielpaiva21.github.io/gbprojetos/)
 
-[Site](file:///media/fuse/drivefs-58f1920da2b04d1125fa392c0a1b8f01/root/amazflix/index.html)
