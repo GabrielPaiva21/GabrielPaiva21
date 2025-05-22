@@ -1,10 +1,8 @@
-### Bem vindo 🎸
+### Bem vindo 
 
-`Gabriel de Paiva 🤘🏻🤘🏻🤘🏻` 
+`Gabriel de Paiva ` 
 
 - **carros**
-- **motores**
-- **drift**
 - **arrancadão dos guri** 
 
 ### social 🎸
